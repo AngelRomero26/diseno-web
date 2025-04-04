@@ -46,7 +46,7 @@ h3 {
 .logo {
     width: 18px;
     height: 18px;
-    background-color: aqua;
+    /* background-color: aqua; */
     margin-right: 25px;
     margin-top: 20px;
 }

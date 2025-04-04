@@ -29,3 +29,4 @@ export default {
     "img11":img11,
     "img80":img80,
 };
+

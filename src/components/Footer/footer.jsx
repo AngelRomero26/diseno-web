@@ -26,9 +26,11 @@ const footer = () => {
               </div>
             </div>
             <div className='text1'>
+              <img className='imgfoot' src={images.logo} alt="" />
               <p>512.333.2222</p>
             </div>
             <div className='text1'>
+              <img className='imgfoot' src={images.logo} alt="" />
               <p>sampleemail@gmail.com</p>
             </div>
           </ul>
